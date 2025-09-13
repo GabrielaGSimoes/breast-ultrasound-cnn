@@ -12,15 +12,17 @@ Maynooth University, 2025 — Gabriela Gonçalves Simões
   - `ResNet-50_3class.ipynb`
   - `Xception_3class.ipynb`
 - Preprocessing scripts (`Ultrasound_preprocessing.ipynb`) -- originally from `https://github.com/christopherkormpos/TumorNet`
-- Model outputs and test predictions (`outputs_*`)
+- Test predictions (`outputs_*`)
 
 ---
 
 ## How to run
 
 1. **Clone the repo**
+~~~bash
    git clone https://github.com/GabrielaGSimoes/breast-ultrasound-cnn
    cd breast-ultrasound-cnn
+~~~ 
 
 2. **Get Python + Jupyter**
     Install Jupyter if not already:
