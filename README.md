@@ -19,7 +19,7 @@ Maynooth University, 2025 — Gabriela Gonçalves Simões
 ## How to run
 
 1. **Clone the repo**
-   git clone https://github.com/<your-username>/breast-ultrasound-cnn.git
+   git clone https://github.com/GabrielaGSimoes/breast-ultrasound-cnn
    cd breast-ultrasound-cnn
 
 2. **Get Python + Jupyter**
